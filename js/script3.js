@@ -1,3 +1,4 @@
+// Tipos de Variables
 // String
 let vstring = "Es un string";
 
