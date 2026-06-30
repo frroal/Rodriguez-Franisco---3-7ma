@@ -1,6 +1,6 @@
 // Variables
 let name = "Martin";
-let edad = "64";
+let edad = "67";
 
 console.log("nombre: " + name + " edad: " + edad);
 
